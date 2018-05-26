@@ -1,0 +1,123 @@
+body {
+    background-color: #f2f2f2;
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    line-height: 1.5;
+    color: #777777;
+}
+
+header {
+    background-color: white;
+    border: solid 1px;
+    border-color: #cccccc;
+    height: 90px;
+    width: 100%;
+}
+
+#home {
+    background-color: #4aaaa5;
+    color: white;
+    width: 330px;
+    height: 75px;
+    text-align: center;
+    float: left;
+    margin-left: 100px;
+    margin-top: 0px;
+    padding-top: 15px;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
+
+#navigation ul {
+    list-style-type: none;
+    float: right;
+    margin: 0px; 
+    padding: 0;
+}
+
+#navigation li {
+    display: inline;
+    float: left;
+    padding: 15px;
+
+}
+
+#navigation li a {
+    color: #777777;
+    text-decoration: none;
+    
+}
+
+#navigation {
+    float: right;
+    margin-right: 100px;
+}
+
+
+
+#aboutMe {
+    background-color: white;
+    border: solid 1px; 
+    border-color: #cccccc;
+    margin: auto;
+    margin-top:50px;
+    padding: 35px;
+    width: 960px;
+}
+
+
+
+#Contact {
+    background-color: white;
+    border: solid 1px; 
+    border-color: #cccccc;
+    margin: auto;
+    margin-top: 50px;
+    width: 960px;
+    padding: 35px;
+}
+
+.form {
+    width: 895px;
+}
+
+#formWide {
+    width: 895px;
+    height: 200px;
+}
+
+
+
+#Portfolio {
+    background-color: white;
+    border: solid 1px; 
+    border-color: #cccccc;
+    margin: auto;
+    margin-top: 50px;
+    height: 850px;
+    width: 960px;
+    padding: 35px;
+}
+
+.img1 {
+    position: relative;
+    height: 200px;
+    width: 275px;
+    float: left;
+    margin-bottom: 57px;
+    margin-right: 40px;
+
+}
+
+.text1 {
+    position: absolute;
+    font-size: 15px;
+    color: white;
+    background-color: #4aaaa5;
+    left:0px;
+    top: 130px;
+    height: 35px;
+    width:275px;
+    text-align: center;
+    padding-top:15px;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+
+}
