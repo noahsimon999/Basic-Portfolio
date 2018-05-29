@@ -6,7 +6,6 @@ body {
     line-height: 1.5;
     color: #777777;
     background-image: url(../images/what-the-hex.png);
-
 }
 
 header {
@@ -17,6 +16,7 @@ header {
     width: 100%;
     min-width: 960;
 }
+
 
 #home {
     background-color: #4aaaa5;
@@ -47,13 +47,11 @@ header {
     display: inline;
     float: left;
     padding: 15px;
-
 }
 
 #navigation li a {
     color: #777777;
-    text-decoration: none;
-    
+    text-decoration: none; 
 }
 
 #navigation li a:hover {
@@ -101,11 +99,6 @@ footer {
     width: 895px;
 }
 
-#formWide {
-    width: 895px;
-    height: 200px;
-}
-
 /*Portfolio Page */
 
 #Portfolio {
@@ -126,7 +119,6 @@ footer {
     float: left;
     margin-bottom: 57px;
     margin-right: 40px;
-
 }
 
 .text1 {
@@ -141,5 +133,4 @@ footer {
     text-align: center;
     padding-top:14px;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
-
 }
