@@ -16,6 +16,10 @@ header {
     width: 100%;
 }
 
+#test {
+    width: 960px;
+    margin: auto;
+}
 
 #home {
     background-color: #4aaaa5;
@@ -24,7 +28,7 @@ header {
     height: 72px;
     text-align: center;
     float: left;
-    margin-left: 22%;
+    /*margin-left: 8%;*/
     margin-top: 0px;
     padding-top: 19px;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
@@ -32,9 +36,8 @@ header {
 
 #navigation {
     float: right;
-    margin-right: 22%;
+    /*margin-right: 8%;*/
 }
-
 #navigation ul {
     list-style-type: none;
     float: right;
@@ -79,7 +82,7 @@ footer {
     margin: auto;
     margin-top:50px;
     padding: 35px;
-    width: 960px;
+    width: 890px;
 }
 
 /*Contact Page */
@@ -90,7 +93,7 @@ footer {
     border-color: #cccccc;
     margin: auto;
     margin-top: 50px;
-    width: 960px;
+    width: 890px;
     padding: 35px;
 }
 
@@ -107,7 +110,7 @@ footer {
     margin: auto;
     margin-top: 50px;
     height: 850px;
-    width: 960px;
+    width: 890px;
     padding: 35px;
 }
 
