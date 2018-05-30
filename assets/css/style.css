@@ -17,7 +17,7 @@ header {
     min-width: 960;
 }
 
-#test {
+#navBar {
     width: 960px;
     margin: auto;
 }
@@ -29,7 +29,6 @@ header {
     height: 72px;
     text-align: center;
     float: left;
-    /*margin-left: 8%;*/
     margin-top: 0px;
     padding-top: 19px;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
@@ -37,7 +36,6 @@ header {
 
 #navigation {
     float: right;
-    /*margin-right: 8%;*/
 }
 #navigation ul {
     list-style-type: none;
@@ -50,6 +48,7 @@ header {
     display: inline;
     float: left;
     padding: 15px;
+    padding-right: 0px;
 }
 
 #navigation li a {
