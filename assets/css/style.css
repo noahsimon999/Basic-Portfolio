@@ -171,6 +171,12 @@ footer {
     margin-right: 40px;
 }
 
+.img1 img {
+    height: 200px;
+    width: 275px;
+    border: 1px solid #ccc 
+}
+
 .text1 {
     position: absolute;
     font-size: 15px;
@@ -183,6 +189,15 @@ footer {
     text-align: center;
     padding-top:14px;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
+
+.text1:hover {
+    color: white;
+    background-color: #3E0CE8;
+    opacity: .9;
+    font-size: 18px;
+    padding-bottom: 10px;
+    height: 25px;
 }
 
 /*Contact Page */
