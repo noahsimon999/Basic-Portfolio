@@ -102,6 +102,11 @@ footer {
     width: 895px;
 }
 
+label {
+    margin-bottom: 0px; 
+    margin-top: 30px;
+}
+
 /*Portfolio Page */
 
 #Portfolio {
