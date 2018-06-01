@@ -185,7 +185,7 @@ footer {
     left:0px;
     top: 140px;
     height: 35px;
-    width:275px;
+    width:276px;
     text-align: center;
     padding-top:14px;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
@@ -196,8 +196,6 @@ footer {
     background-color: #3E0CE8;
     opacity: .9;
     font-size: 18px;
-    padding-bottom: 10px;
-    height: 25px;
 }
 
 /*Contact Page */
@@ -225,5 +223,18 @@ textarea {
     height: 200px; 
     width: 895px; 
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+#submit {
+    background-color: #4aaaa5; 
+    color: white; 
+    width: 115px; 
+    height: 40px; 
+    font-size: 18px; 
+    margin-top: 15px;"
+}
+
+#submit:hover {
+    border: 1px solid #4aaaa5;
 }
 
