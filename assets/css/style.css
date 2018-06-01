@@ -83,7 +83,6 @@ header {
 
 #navigation li {
     display: inline;
-    float: left;
     padding: 15px;
     padding-left: 30px;
     padding-right: 0px;
@@ -206,6 +205,7 @@ footer {
     border-color: #dddddd;
     margin: auto;
     margin-top: 50px;
+    margin-bottom: 100px;
     width: 890px;
     padding: 35px;
 }
@@ -231,7 +231,7 @@ textarea {
     width: 115px; 
     height: 40px; 
     font-size: 18px; 
-    margin-top: 15px;"
+    margin-top: 15px;
 }
 
 #submit:hover {
