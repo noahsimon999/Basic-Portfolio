@@ -250,9 +250,6 @@ textarea {
 /* media */
 
 @media only screen and (max-width: 980px) {
-    body {
-        color:lightblue;   
-    }
 
     #navBar {
         width: 650px;
@@ -305,9 +302,6 @@ textarea {
     
 
 @media only screen and (max-width: 768px) {
-    body {
-        color: blue;
-    }
 
     #navBar {
         width: 500px;
@@ -394,9 +388,6 @@ textarea {
     }
 }
 @media only screen and (max-width: 640px) {
-    body {
-        color: red;
-    }
     #aboutMe {
         background-color: #ffffff;
         border: solid 1px; 
