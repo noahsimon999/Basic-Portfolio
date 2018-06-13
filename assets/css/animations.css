@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-/*
-==============================================
 CSS3 ANIMATION CHEAT SHEET
 ==============================================
 
@@ -1287,16 +1284,15 @@ slideLeft
 	0% {
 		transform: translateX(150%);
 	}
-	50%{
+	50% {
 		transform: translateX(-8%);
 	}
-	65%{
+	65% {
 		transform: translateX(4%);
-	}
-	80%{
+	80% {
 		transform: translateX(-4%);
 	}
-	95%{
+	95% {
 		transform: translateX(2%);
 	}			
 	100% {
@@ -2250,5 +2246,4 @@ stretchRight
 	100% {
 		-webkit-transform: scaleX(1);
 	}		
->>>>>>> 966523f36bf42b3b954ef41909f6598a90d714b7
 }
